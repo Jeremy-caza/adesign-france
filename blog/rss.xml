@@ -11,13 +11,23 @@
     <description>Conseils d'expert sur la cuisine équipée, l'agencement et l'aménagement sur mesure à Tarbes et dans les Hautes-Pyrénées.</description>
     <language>fr-FR</language>
     <copyright>ADesign</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://adesign-france.fr/blog/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://adesign-france.fr/assets/logo-adesign.png</url>
       <title>Blog ADesign — Cuisine &amp; agencement à Tarbes</title>
       <link>https://adesign-france.fr/blog/</link>
     </image>
+
+    <item>
+      <title>Rénover votre cuisine à Tarbes</title>
+      <link>https://adesign-france.fr/blog/renover-cuisine-maison-ville-tarbaise/</link>
+      <guid isPermaLink="true">https://adesign-france.fr/blog/renover-cuisine-maison-ville-tarbaise/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0200</pubDate>
+      <author>adesign-france@adesign-france.fr (ADesign)</author>
+      <category>Cuisine</category>
+      <description>Rénover une cuisine dans une maison de ville à Tarbes présente des défis uniques, notamment des murs non d'équerre et des réseaux existants. ADesign, spécialiste en agencement sur mesure, vous guide pour optimiser votre espace en tenant compte des spécificités architecturales locales.</description>
+    </item>
 
     <item>
       <title>Quel plan de travail pour votre cuisine ?</title>
